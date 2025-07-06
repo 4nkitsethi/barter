@@ -1,0 +1,3 @@
+[submodule "app/Modules/product"]
+	path = app/Modules/product
+	url = https://github.com/4nkitsethi/ws-products.git
