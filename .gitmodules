@@ -4,3 +4,6 @@
 [submodule "app/Modules/Blog"]
 	path = app/Modules/Blog
 	url = https://github.com/4nkitsethi/ws-blogs.git
+[submodule "app/Modules/User"]
+	path = app/Modules/User
+	url = https://github.com/4nkitsethi/ws-users.git
